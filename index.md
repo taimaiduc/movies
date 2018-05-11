@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/taimaiduc/movies/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# Login youtube with account taimaiduc2@gmail.com/024****** (Password wifi)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+After that open link below
 
-### Markdown
+Castle SS4:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[SS04ep1](https://www.youtube.com/watch?v=2d0FXM0nYyE)
 
-```markdown
-Syntax highlighted code block
+[SS04ep2](https://www.youtube.com/watch?v=flU93Wx2SAU)
 
-# Header 1
-## Header 2
-### Header 3
+[SS04ep3](https://www.youtube.com/watch?v=WKROxtcJL3k)
 
-- Bulleted
-- List
+[SS04ep4](https://www.youtube.com/watch?v=lAziMsZLE10)
 
-1. Numbered
-2. List
+[SS04ep5](https://www.youtube.com/watch?v=x0f0sXADI74)
 
-**Bold** and _Italic_ and `Code` text
+[SS04ep6](https://www.youtube.com/watch?v=Zi5gy1FKuL8)
 
-[Link](url) and ![Image](src)
-```
+[SS04ep7](https://www.youtube.com/watch?v=nAeqGmuPewQ)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[SS04ep8](https://www.youtube.com/watch?v=i2q31VmGq3o)
 
-### Jekyll Themes
+[SS04ep9](https://www.youtube.com/watch?v=q6MXw7AVHqg)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/taimaiduc/movies/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[SS04ep10](https://www.youtube.com/watch?v=J5GgntEd2vo)
